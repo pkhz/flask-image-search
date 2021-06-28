@@ -1,4 +1,2 @@
-env
-*.pyc
-.DS_STORE
-post.md
+__pycache__  
+.venv
